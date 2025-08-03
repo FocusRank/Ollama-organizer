@@ -2,7 +2,7 @@
 
 A graphical tool designed to manage local Ollama model files. It supports **batch organization**, **copy verification**, **version control**, and **safe deletion**—ideal for backing up, migrating, and archiving Ollama models.
 
-![image-20250803173956409](.\assets\image-20250803173956409.png)
+![image-20250803173956409](./assets/image-20250803173956409.png)
 
 ---
 
