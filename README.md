@@ -120,3 +120,12 @@ MIT License
 
 Developed and maintained by [FocusRank](https://github.com/FocusRank).  
 Feel free to open an issue or submit a pull request.
+
+
+---
+
+## ⭐ Star This Project
+
+If you find this tool helpful, please consider giving it a star!
+
+[![Star](https://img.shields.io/github/stars/FocusRank/Ollama-organizer?style=social)](https://github.com/FocusRank/Ollama-organizer/stargazers)
