@@ -2,7 +2,7 @@
 
 一个用于整理 Ollama 本地模型文件的图形界面工具，可对模型进行 **批量整理**、**复制验证**、**版本管理** 和 **清理删除** 操作，适用于模型文件的备份迁移和版本归档。
 
-![image-20250803173711700](C:\Users\xxx\PycharmProjects\Ollama-organizer\assets\image-20250803173711700.png)
+![image-20250803173711700](.\assets\image-20250803173711700.png)
 
 
 

@@ -1,0 +1,27 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+
+# PyInstaller 打包输出目录
+build/
+dist/
+*.spec
+
+# 日志和临时文件
+*.log
+*.tmp
+*.bak
+*.spec
+
+# PyCharm / VSCode 工程设置
+.idea/
+.vscode/
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+
+# 运行时生成的记录文件
+config.json
+processed_models.json
+error_log.json
